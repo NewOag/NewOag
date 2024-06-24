@@ -1,8 +1,8 @@
 ​<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/NewOag/NewOag/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/NewOag/NewOag/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/NewOag/NewOag/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 <!--
 **NewOag/NewOag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
