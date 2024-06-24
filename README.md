@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-​<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div>
+  ​<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/NewOag/NewOag/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/NewOag/NewOag/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+</div>
